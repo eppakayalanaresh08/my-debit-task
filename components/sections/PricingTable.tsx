@@ -84,7 +84,7 @@ export default function PricingTable() {
 </h2>
 
 <p className={`text-lg lg:text-xl text-gray-600 mb-12 max-w-2xl mx-auto leading-relaxed tracking-wide font-light ${lora.className}`}>
-  Whether you're just starting out or looking for premium benefits, we have a card that fits your needs and budget.
+  Whether you re just starting out or looking for premium benefits, we have a card that fits your needs and budget.
 </p>
 
 

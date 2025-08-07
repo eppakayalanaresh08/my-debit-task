@@ -134,7 +134,7 @@ const Testimonials = () => {
                           ))}
                         </div>
                         <blockquote className="text-lg text-gray-700 font-medium mb-4">
-                          "{t.content}"
+                          {t.content}
                         </blockquote>
                         <div className="flex items-center gap-4">
                           <Image
